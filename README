@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=813
+
+Updates the default VIM email syntax script to also do the following:
+
+1. Highlight URLs and email addresses in the message / quoted message
+2. Highlight signatures in the quoted message
+3. Highlight headers in the quoted message
+
+Look at http://www.math.uchicago.edu/~gautam/vim/xterm16/email.html for a screenshot. This file is now part of the standard vim distribution, and will be shipped with future releases (6.3 and later).
